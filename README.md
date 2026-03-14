@@ -44,3 +44,12 @@ aqui temos o log do terminal apos acrescentar as novas informacoes
 
 agora a tabela atualizada apos o uso do codigo
 ![alt text](.\img\image2.png)
+
+na imagem abaixo temos a tabela cliente antes de inserir os novos dados:
+![Tabela Antes](img/image1.png)
+
+aqui temos o log do terminal após acrescentar as novas informações:
+![Log Terminal](img/image.png)
+
+agora a tabela atualizada após o uso do código:
+![Tabela Depois](img/image3.png)
