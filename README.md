@@ -43,4 +43,6 @@ aqui temos o log do terminal apos acrescentar as novas informacoes
 ![alt text](img\image1.png)
 
 agora a tabela atualizada apos o uso do codigo
-![alt text](img\image2.png)
+![Tabela Depois](img\image2.png)
+
+
