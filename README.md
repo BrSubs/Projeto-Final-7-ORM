@@ -44,7 +44,7 @@ Neste projeto foi implementado o mapeamento das entidades do sistema:
 
 *aqui temos o log do terminal após acrescentar as novas informações:*
 
-![Tabela Antes](img/image1.png)
+![Log](img/image1.png)
 
 *agora a tabela atualizada após o uso do código:*
 
