@@ -1,10 +1,25 @@
-este projeto adiciona 3 clientes e seus dados a tabela cliente
 esta é uma integração python e postgresql usando sqlalchemy
 
-DADOS INSERIDOS
-Cliente(nome="Ana Tech", email="ana@exemplo.com", cpf="12345678901"),
-Cliente(nome="Bruno Dev", email="bruno@exemplo.com", cpf="10987654321"),
-Cliente(nome="Carla Code", email="carla@exemplo.com", cpf="56473829102")
+
+Aqui foi implementado o mapeamento das entidades do sistema:
+
+    Cada tabela principal do projeto deve vira uma classe/entidade
+
+    Cada entidade deve contem:
+
+        chave primária
+
+        campos básicos (colunas)
+
+        relacionamentos coerentes com o modelo
+
+
+📌 Regra prática:
+
+    tabelas principais mapeadas
+
+    mapear pelo menos 2 relacionamentos (ex.: 1–N e N–N, ou 1–N e N–1)
+
 
 
 .env
